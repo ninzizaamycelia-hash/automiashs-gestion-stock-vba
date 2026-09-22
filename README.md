@@ -91,3 +91,10 @@ Ce projet m'a permis de développer mes compétences en :
 * gestion de données ;
 * conception d'un outil de gestion ;
 * analyse et synthèse de données.
+
+* ## 🚀 Installation / Utilisation
+
+1. Télécharger le fichier `Application_G1.xlsm`
+2. Ouvrir avec Excel
+3. Activer les macros (Fichier > Options > Centre de gestion de la confidentialité > Paramètres des macros > Activer toutes les macros)
+4. Se référer au `ManuelUtilisateurG1.pdf` pour le guide d'utilisation détaillé
